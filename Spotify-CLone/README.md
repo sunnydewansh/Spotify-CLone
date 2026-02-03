@@ -1,2 +1,0 @@
-# Spotify-CLone
-Spotify clone using HTML and CSS
